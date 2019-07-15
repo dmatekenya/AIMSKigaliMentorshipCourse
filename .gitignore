@@ -23,6 +23,10 @@ package-installation/
 # solutions notebook
 solution_notebooks/
 
+# big data folders
+case-studies/food-detection/data/
+case-studies/mobile-data/data/
+
 
 
 

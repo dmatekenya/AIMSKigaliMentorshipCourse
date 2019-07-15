@@ -1,15 +1,15 @@
 # Big Data Analytics with Python
 
-The material in this repository was presented at a training workshop in **Dakar, Senegal** on *July 1 to July 5, 2019*. The training was organized by **The African Institute for Mathematical Sciences (AIMS)**.
+The material in this repository was presented at a training workshop in **Kigali, Rwanda** on *July 15 to July 19, 2019*. The training was organized by **The African Institute for Mathematical Sciences (AIMS)** as part of the mentorship for the winners of Big Data Challenge.
 
 # Course Outline and Goals
-The goal of the course is to introduce participants to the use of Python to perfom data science tasks such as data ingestion, data analysis and machine learning with focus on processing of large scale datasets. This course is different from regular online courses as it uses real life datasets and case studies to challenge participants with real world data science problems, instead of solving toy problems. The structure of the course is as follows:
+The goal of the course is to introduce participants to the use of Python to perfom data science tasks such as data ingestion, data analysis and machine learning with focus on processing of large scale datasets. This course is different from regular online courses as it uses real life datasets and case studies to challenge participants with real world data science problems, instead of solving toy problems. The course has four main components as follows:
 
-- **Day 1**: Introduction to Python
-- **Day 2**: Python for Data Science
-- **Day 3**: Big Data Processign with Pyspark
-- **Day 4**: Machine Learning in Python
-- **Day 5**: Big Data and ML Case Studies
+- **Introduction to Python:** the focus here is to provide participants with skills in Python programming which they can utilize in the rest of the course.
+- **Python for Data Science:** here, the course provides a tour of the essential Python tools for data science so that the participants are familiar with them.
+- **Big Data Processing with Pyspark:** this component introduces tools for handling large scale data. The focus is on Apache Spark as distributed data processing engine.
+- **Machine Learning in Python:** the course introduces participants to essential Python libraries for ML: sciki-learn and TensorFlow.
+- **Case Studies:** in order to go beyond *hello world* and *toy problems*, the case studies challenges participants with real life data science problems.
 
 # Repository Setup
 The materials are organised into folders by day. All the code live in the *src* folder. Due to large size of powerpoint files, these are not included in the repository, instead you can find uptodate [powerpoint slides here](https://drive.google.com/drive/folders/1_-C1qcrL-MVugOWFuTKZrF-v6Ma8yO_y?usp=sharing). Also, some datasets arent included in the repository. All the code use **Python 3**.
